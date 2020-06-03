@@ -7,7 +7,9 @@ She-Ra and the Princesses of Power is a Netflix reboot of the 80's cartoon, She-
 
 **Data Source**
 
-I gathered transcripts from a She-Ra fan-made wiki page (link:https://she-raandtheprincessesofpower.fandom.com/wiki/Category:Transcripts). Since this source is dependent solely on fan contributions, there may be some mistakes and certain episodes do not have complete scripts. 
+I gathered transcripts from a She-Ra fan-made wiki page. Since this source is dependent solely on fan contributions, there may be some mistakes and certain episodes do not have complete scripts. 
+
+Link to Transcripts:https://she-raandtheprincessesofpower.fandom.com/wiki/Category:Transcripts
 
 Below is a list of episodes for which I did not obtain a completed script: 
 
