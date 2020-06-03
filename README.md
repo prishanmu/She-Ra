@@ -15,6 +15,7 @@ Below is a list of episodes for which I did not obtain a completed script:
 * Season 1, Episode 7
 
 **References**
+
 Other projects I was inspired by: 
 * https://www.kaggle.com/ambarish/fun-in-text-mining-with-simpsons/report
 * https://medium.com/data-slice/the-words-of-witches-wizards-7a1a96672ebf
