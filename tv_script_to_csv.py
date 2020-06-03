@@ -10,7 +10,7 @@ list_of_lines = []
 #####
 
 import os
-your_path = 'TV Show Scripts in TXT/'
+your_path = 'txt_scripts/'
 files = os.listdir(your_path)
 #keyword = 'your_keyword'
 for file in files:
