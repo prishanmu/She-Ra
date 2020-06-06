@@ -32,3 +32,5 @@ Other projects I was inspired by:
 * What are some relationships among words on this show? 
 * Sentiment Analysis by Character and Season
 * Data Modeling: Can we predict which lines were spoken by Adora? or Catra? 
+
+While I will be uploading updates to my Jupyter Notebook on GitHub, the latest version will be on [Google Colab](https://colab.research.google.com/drive/1kkazlx1-L0pf5uvlMYmBeFjFPrXZ7wg-?usp=sharing).
