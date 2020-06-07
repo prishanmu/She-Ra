@@ -34,4 +34,12 @@ Other projects I was inspired by:
 * Sentiment Analysis by Character and Season
 * Data Modeling: Can we predict which lines were spoken by Adora? or Catra? 
 
+**Files in this Repo**:
+
+* README.md: Markdown file discussing details of this project. 
+* txt_scripts/: path to txt files of the show's scripts
+* tv_script_to_csv.py: Python file used to convert the txt files into one csv file
+* she_ra_dialogue.csv: CSV file with each line of dialogue and who said it during which episode. 
+* She_Ra_Project.ipynb: Jupyter Notebook holding my text analysis work and completmentary data visualization. 
+
 While I will be uploading updates to my Jupyter Notebook on GitHub, the latest version will be on [Google Colab](https://colab.research.google.com/drive/1kkazlx1-L0pf5uvlMYmBeFjFPrXZ7wg-?usp=sharing).
