@@ -44,7 +44,7 @@ print(final_list)
 
 with open('she_ra_dialogue.csv','w', encoding="utf8") as f:
     writer = csv.writer(f)
-    writer.writerow(['character','dialouge', 'season', 'episode']) # define CSV header
+    writer.writerow(['character','dialogue', 'season', 'episode']) # define CSV header
     writer.writerows(final_list) # feed list_of_lines to CSV file
 
 f.close()
