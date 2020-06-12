@@ -21,9 +21,12 @@ Below is a list of episodes for which I did not obtain a completed script:
 
 **References**
 
-Other projects I was inspired by: 
 * https://www.kaggle.com/ambarish/fun-in-text-mining-with-simpsons/report
 * https://medium.com/data-slice/the-words-of-witches-wizards-7a1a96672ebf
+* https://www.earthdatascience.org/courses/use-data-open-source-python/intro-to-apis/calculate-tweet-word-bigrams/
+* https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a
+* https://www.kaggle.com/pierremegret/gensim-word2vec-tutorial#Gensim-Word2Vec%C2%A0Tutorial
+
 
 **Research Questions**: 
 
