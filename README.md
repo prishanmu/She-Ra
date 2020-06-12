@@ -19,14 +19,6 @@ Below is a list of episodes for which I did not obtain a completed script:
 * Season 4: Episode 2-5, 9, 10, 12, 13
 * Season 5: Episode 1-4, 7-12
 
-**References**
-
-* https://www.kaggle.com/ambarish/fun-in-text-mining-with-simpsons/report
-* https://medium.com/data-slice/the-words-of-witches-wizards-7a1a96672ebf
-* https://www.earthdatascience.org/courses/use-data-open-source-python/intro-to-apis/calculate-tweet-word-bigrams/
-* https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a
-* https://www.kaggle.com/pierremegret/gensim-word2vec-tutorial#Gensim-Word2Vec%C2%A0Tutorial
-
 
 **Research Questions**: 
 
@@ -46,3 +38,11 @@ Below is a list of episodes for which I did not obtain a completed script:
 * She_Ra_Project.ipynb: Jupyter Notebook holding my text analysis work and completmentary data visualization. 
 
 While I will be uploading updates to my Jupyter Notebook on GitHub, the latest version will be on [Google Colab](https://colab.research.google.com/drive/1kkazlx1-L0pf5uvlMYmBeFjFPrXZ7wg-?usp=sharing).
+
+**References**
+
+* https://www.kaggle.com/ambarish/fun-in-text-mining-with-simpsons/report
+* https://medium.com/data-slice/the-words-of-witches-wizards-7a1a96672ebf
+* https://www.earthdatascience.org/courses/use-data-open-source-python/intro-to-apis/calculate-tweet-word-bigrams/
+* https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a
+* https://www.kaggle.com/pierremegret/gensim-word2vec-tutorial#Gensim-Word2Vec%C2%A0Tutorial
