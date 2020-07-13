@@ -1,6 +1,8 @@
 # She-Ra and the Princesses of Power
 Text analysis of scripts from the recent reboot of She-Ra and the Princesses of Power
 
+![She-Ra Header](https://66.media.tumblr.com/9b9f55574ad52fb049f922538d821f3e/591b7a4c7a6cb38a-df/s2048x3072/04187ca7d64acd1b132f8e0d489a7fe9c828afbb.jpg)
+
 **Background Information**
 
 She-Ra and the Princesses of Power is a Netflix reboot of the 80's cartoon, She-Ra: Princess of Power. Over the past few years, 52 episodes have come out and the series' stories have concluded. The series is known for its variety of representation, both causual and central to the story, and themes of friendship, abandonment, colonialism, and queer relationships. As a fan of the show and data scientist, I wanted to look deeper into the dailogue of the show.
