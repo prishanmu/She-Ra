@@ -38,7 +38,7 @@ Below is a list of episodes for which I did not obtain a completed script:
 * img_files/: path to image files I used.
 * tv_script_to_csv.py: Python file used to convert the txt files into one csv file.
 * she_ra_dialogue.csv: CSV file with each line of dialogue and who said it during which episode. 
-* She_Ra_Project.ipynb: Jupyter Notebook holding my text analysis work and completmentary data visualization. 
+* **She_Ra_Project.ipynb**: Jupyter Notebook holding my text analysis work and completmentary data visualization. 
 * Entrapta_Wordclouds.ipynb: Jupyter Notebook containing code to create some wordclouds using the character Entrapta's lines. Kept separate from the She_Ra notebooks as I used this work for a fan competition and not for the purpose of answering my research questions.  
 
 While I will be uploading updates to my Jupyter Notebook on GitHub, the latest version will be on [Google Colab](https://colab.research.google.com/drive/1kkazlx1-L0pf5uvlMYmBeFjFPrXZ7wg-?usp=sharing).
