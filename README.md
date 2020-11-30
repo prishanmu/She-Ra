@@ -9,13 +9,13 @@ She-Ra and the Princesses of Power is a Netflix reboot of the 80's cartoon, She-
 
 **Data Source**
 
-I gathered transcripts from a She-Ra fan-made wiki page. Since this source is dependent solely on fan contributions, there may be some mistakes and many episodes do not have complete scripts. I will be updating this repo and my data analysis as more scripts become available to me. For now, we can consider the results a reflection of mainly season 1 & 2. 
+I gathered transcripts from a She-Ra fan-made wiki page. Since this source is dependent solely on fan contributions, there may be some mistakes and many episodes do not have complete scripts. I will be updating this repo and my data analysis as more scripts become available to me. For now, we can consider the results a reflection of mainly seasons 1-3. 
 
 Link to Transcripts:https://she-raandtheprincessesofpower.fandom.com/wiki/Category:Transcripts
 
 Below is a list of episodes for which I did not obtain a completed script: 
 
-* Season 3: Episode 1-4, 6
+* Season 3: Episode 2
 * Season 4: Episode 2-5, 9, 10, 12, 13
 * Season 5: Episode 1-4, 7-12
 
