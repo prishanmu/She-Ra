@@ -15,7 +15,6 @@ Link to Transcripts:https://she-raandtheprincessesofpower.fandom.com/wiki/Catego
 
 Below is a list of episodes for which I did not obtain a completed script: 
 
-* Season 2: Episode 1, 3, 6, 7
 * Season 3: Episode 1-4, 6
 * Season 4: Episode 2-5, 9, 10, 12, 13
 * Season 5: Episode 1-4, 7-12
